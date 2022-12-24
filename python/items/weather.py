@@ -1,7 +1,7 @@
 import requests # <-- To query Weather API Server
 import json     # <-- To parse Weather JSON Data
 
-apiAppid = "appid=" + "55d229f31cbfc917f38757d1c96974d6"
+apiAppid = "appid=" + "openWeatherAPInumber"
 
 class Weather:
     city:str
